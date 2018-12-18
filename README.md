@@ -1,7 +1,7 @@
 # HW1
 ## Инструкция 
 1. Открыть HW1_Kalinin_corrected.ipynb с помощью Jupyter Notebook (https://jupyter.org/ он также встроен в Anaconda)
-2. Данные поместить в папку с HW1_Kalinin.ipynb
+2. Данные поместить в папку с HW1_Kalinin_corrected.ipynb
 3. Установить MySQL (https://dev.mysql.com/downloads/installer/)
 4. Обновить пакет pandas до последней версии (pip install --upgrade pandas)
 5. Создать пользователя и БД в MySQL:
